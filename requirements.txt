@@ -1,0 +1,16 @@
+boto3
+opensearch-py
+botocore
+awscli
+retrying
+ragas==0.2.5
+ipywidgets
+iprogress
+langchain
+langchain-core
+langchain_aws
+langchain_community
+llama-index-core
+llama-index-llms-bedrock
+bs4
+datasets
